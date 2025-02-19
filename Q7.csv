@@ -1,0 +1,5 @@
+quarter_number,revenue,previous_quarter_revenue,percentage_change_in_revenue
+1,26375015.66,NULL,NULL
+2,21465757.27,26375015.66,-18.61
+3,19582283.12,21465757.27,-8.77
+4,15182375.04,19582283.12,-22.47
